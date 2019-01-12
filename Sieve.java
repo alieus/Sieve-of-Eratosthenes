@@ -1,5 +1,5 @@
 public interface Sieve {
     
-    public java.util.List<Integer> getPrimes(int n);
+   public java.util.List<Integer> getPrimes(int n);
     
 }
