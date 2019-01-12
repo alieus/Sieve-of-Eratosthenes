@@ -3,7 +3,7 @@
  * the class implements Sieve
  *
  * @author Alieu Sanneh
- * @version PA9: Sieve of Eratosthenes 
+ * @version Sieve of Eratosthenes 
  */
  public class MySieve implements Sieve{
 
