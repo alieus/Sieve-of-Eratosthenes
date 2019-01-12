@@ -3,7 +3,7 @@
  * it extends the parent class and overrides most ot its method
  *
  * @author Alieu Sanneh
- * @version PA9: Sieve of Eratosthenes 
+ * @version Sieve of Eratosthenes 
  */
  public class SieveDriver extends SieveDriverBase{
  
